@@ -1,0 +1,9 @@
+{
+  "execution_id": "7654f879-01b8-494e-9495-5a30a36bb6b1",
+  "tier": "ephemeral",
+  "started_at": "2026-10-29T15:05:10.770+00:00",
+  "finished_at": "2026-10-29T15:05:22.765+00:00",
+  "recorded_at": "2026-10-29T15:05:34.129+00:00",
+  "amp_base_url": "https://app.crewai.com",
+  "trace_url": "https://app.crewai.com/crewai_plus/ephemeral_traces/7654f879-01b8-494e-9495-5a30a36bb6b1"
+}
